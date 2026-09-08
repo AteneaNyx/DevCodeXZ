@@ -1,0 +1,26 @@
+<svg width="1600" height="120" viewBox="0 0 1600 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="footer">
+  <defs>
+    <linearGradient id="wave1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00d2ff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00d2ff" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#00d2ff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#9d4edd" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#9d4edd" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#9d4edd" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="wave3" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7bf1a8" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#7bf1a8" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#7bf1a8" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blur" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+  </defs>
+  <rect width="1600" height="120" fill="#0d0d17"/>
+  <path d="M -40 60 C 300 10, 600 100, 900 55 S 1400 10, 1660 60" stroke="url(#wave2)" stroke-width="26" fill="none" opacity="0.7" filter="url(#blur)"/>
+  <path d="M -40 80 C 320 40, 640 115, 960 70 S 1440 30, 1660 80" stroke="url(#wave1)" stroke-width="18" fill="none" opacity="0.8" filter="url(#blur)"/>
+  <path d="M -40 40 C 340 70, 700 15, 1000 45 S 1450 85, 1660 45" stroke="url(#wave3)" stroke-width="14" fill="none" opacity="0.6" filter="url(#blur)"/>
+</svg>

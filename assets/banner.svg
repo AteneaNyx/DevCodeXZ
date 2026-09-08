@@ -1,0 +1,64 @@
+<svg width="1600" height="340" viewBox="0 0 1600 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="DevCode Kawai">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d0d17"/>
+      <stop offset="0.55" stop-color="#12122a"/>
+      <stop offset="1" stop-color="#1a1033"/>
+    </linearGradient>
+    <linearGradient id="a1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00d2ff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00d2ff" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#00d2ff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="a2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#9d4edd" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#9d4edd" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#9d4edd" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="a3" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7bf1a8" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#7bf1a8" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#7bf1a8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="a4" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff6f91" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ff6f91" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#ff6f91" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.5" stop-color="#a5f3fc"/>
+      <stop offset="1" stop-color="#d8b4fe"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+    <filter id="glow-soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="26"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="340" fill="url(#sky)"/>
+
+  <g fill="#ffffff">
+    <circle cx="120" cy="60" r="1.6" opacity="0.55"/>
+    <circle cx="340" cy="35" r="1.2" opacity="0.4"/>
+    <circle cx="560" cy="75" r="1.8" opacity="0.6"/>
+    <circle cx="820" cy="30" r="1.3" opacity="0.45"/>
+    <circle cx="1060" cy="65" r="1.7" opacity="0.55"/>
+    <circle cx="1290" cy="40" r="1.2" opacity="0.4"/>
+    <circle cx="1480" cy="70" r="1.8" opacity="0.6"/>
+    <circle cx="230" cy="110" r="1.1" opacity="0.35"/>
+    <circle cx="705" cy="95" r="1.1" opacity="0.3"/>
+    <circle cx="1400" cy="115" r="1.3" opacity="0.4"/>
+  </g>
+
+  <path d="M -40 200 C 260 90, 520 260, 820 180 S 1360 80, 1660 190" stroke="url(#a2)" stroke-width="60" fill="none" opacity="0.75" filter="url(#glow-soft)"/>
+  <path d="M -40 230 C 300 120, 560 290, 860 200 S 1400 110, 1660 220" stroke="url(#a1)" stroke-width="42" fill="none" opacity="0.8" filter="url(#glow)"/>
+  <path d="M -40 160 C 240 250, 600 90, 900 160 S 1420 250, 1660 150" stroke="url(#a3)" stroke-width="30" fill="none" opacity="0.55" filter="url(#glow)"/>
+  <path d="M -40 260 C 320 180, 640 320, 940 250 S 1460 170, 1660 260" stroke="url(#a4)" stroke-width="26" fill="none" opacity="0.5" filter="url(#glow)"/>
+
+  <text x="800" y="168" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="68" font-weight="700" fill="url(#title)" letter-spacing="2">DevCode Kawai</text>
+  <text x="800" y="232" text-anchor="middle" font-family="Consolas, Monaco, monospace" font-size="27" fill="#00d2ff" letter-spacing="4">DevCodeXZ &#8226; LUA &amp; GAME DEV</text>
+  <line x1="640" y1="258" x2="960" y2="258" stroke="#9d4edd" stroke-width="2" opacity="0.8"/>
+</svg>

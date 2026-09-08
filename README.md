@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,11,20&height=190&section=header&text=DevCode%20Kawai&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=%F0%9F%91%BE%20DevCodeXZ%20%E2%80%A2%20Lua%20%26%20Game%20Dev&descSize=19&descColor=ffffff&descAlignY=68" width="100%" alt="banner"/>
+<img src="assets/banner.svg" width="100%" alt="banner"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1200&color=00D2FF&center=true&vCenter=true&random=false&width=640&lines=I+LOVE+LUA+CODE+%3C3;Roblox+scripts+%26+UI+libraries;Obfuscation+with+custom+VM+runtime;Low-poly+games+with+Three.js)](https://github.com/DevCodeXZ)
 
@@ -39,30 +39,17 @@ local DevCode = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DevCodeXZ&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" height="170" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCodeXZ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" alt="top langs"/>
+<img src="assets/stats.svg" height="230" alt="stats"/>&nbsp;&nbsp;<img src="assets/langs.svg" height="230" alt="top langs"/>
 
-<img src="https://streak-stats.demolab.com/?user=DevCodeXZ&theme=tokyonight&hide_border=true&background=0d1117" height="170" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=DevCodeXZ&theme=tokyonight&hide_border=true&background=1a1b27&locale=en" height="200" alt="streak"/>
 
 </div>
 
 ## 🏆 Featured projects
 
-<div align="center">
-
-| | | |
+| 🦆 [**pantano-de-patos**](https://github.com/DevCodeXZ/pantano-de-patos) | 🔒 [**aurorax-obfuscator**](https://github.com/DevCodeXZ/aurorax-obfuscator) | 🌈 [**Aurora-X-Ui-library**](https://github.com/DevCodeXZ/Aurora-X-Ui-library) |
 |---|---|---|
-| <a href="https://github.com/DevCodeXZ/pantano-de-patos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DevCodeXZ&repo=pantano-de-patos&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="pantano-de-patos"/></a> | <a href="https://github.com/DevCodeXZ/aurorax-obfuscator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DevCodeXZ&repo=aurorax-obfuscator&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="aurorax-obfuscator"/></a> | <a href="https://github.com/DevCodeXZ/Aurora-X-Ui-library"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DevCodeXZ&repo=Aurora-X-Ui-library&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Aurora-X-Ui-library"/></a> |
-
-</div>
-
-## 🏅 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DevCodeXZ&theme=discord&no-frame=true&row=1&column=7&margin-w=8" width="100%" alt="trophies"/>
-
-</div>
+| *Shooter-tycoon 3D low-poly: caza patos, mejora tu rifle y tu perro, sobrevive 100 días y derrota a los 10 jefes del pantano.* `Three.js` `HTML5` | *Obfuscator for Lua scripts with an embedded VM runtime. Lua 5.1+ / LuaJIT compatible.* `Python` `Lua` | *Librería de interfaz para Roblox escrita en Luau.* `Luau` |
 
 ## 🐍 Contribution snake
 
@@ -78,6 +65,6 @@ local DevCode = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,11,20&height=110&section=footer" width="100%" alt="footer"/>
+<img src="assets/footer.svg" width="100%" alt="footer"/>
 
 </div>
