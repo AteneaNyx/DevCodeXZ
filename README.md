@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" width="100%" alt="banner"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1200&color=00D2FF&center=true&vCenter=true&random=false&width=640&lines=I+LOVE+LUA+CODE+%3C3;Roblox+scripts+%26+UI+libraries;Obfuscation+with+custom+VM+runtime;Low-poly+games+with+Three.js)](https://github.com/DevCodeXZ)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1200&color=00D2FF&center=true&vCenter=true&random=false&width=640&lines=I+LOVE+LUA+CODE+%3C3;Full-stack+%26+game+developer;Lua+%C2%B7+Luau+%C2%B7+JS+%C2%B7+Python+%C2%B7+C;From+Roblox+scripts+to+3D+web+games;UI+libraries+%C2%B7+obfuscators+%C2%B7+bots;If+it+runs+code%2C+I+code+it)](https://github.com/DevCodeXZ)
 
 [![visitors](https://komarev.com/ghpvc/?username=DevCodeXZ&style=flat-square&color=8b5cf6&label=VISITORS)](https://github.com/DevCodeXZ)
 

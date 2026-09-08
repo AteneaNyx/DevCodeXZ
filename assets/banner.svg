@@ -59,6 +59,6 @@
   <path d="M -40 260 C 320 180, 640 320, 940 250 S 1460 170, 1660 260" stroke="url(#a4)" stroke-width="26" fill="none" opacity="0.5" filter="url(#glow)"/>
 
   <text x="800" y="168" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="68" font-weight="700" fill="url(#title)" letter-spacing="2">DevCode Kawai</text>
-  <text x="800" y="232" text-anchor="middle" font-family="Consolas, Monaco, monospace" font-size="27" fill="#00d2ff" letter-spacing="4">DevCodeXZ &#8226; LUA &amp; GAME DEV</text>
+  <text x="800" y="232" text-anchor="middle" font-family="Consolas, Monaco, monospace" font-size="27" fill="#00d2ff" letter-spacing="4">DevCodeXZ &#8226; CODE EVERYTHING</text>
   <line x1="640" y1="258" x2="960" y2="258" stroke="#9d4edd" stroke-width="2" opacity="0.8"/>
 </svg>
